@@ -1,0 +1,20 @@
+{
+    "name": "AUTO QUIZ POLY",
+    "version": "1.0",
+    "manifest_version": 2,
+    "icons": {"128": "icon.png"},
+    "content_scripts": [
+        {
+            "matches": ["*://*.cms.poly.edu.vn/courses/*/courseware/*"],
+            "js": ["quizcms.js"]
+        },
+        {
+            "matches": ["*://*.poly.edu.vn/*cmd=showQuestion*"],
+            "js": ["quizlms.js"]
+        },
+        {
+            "matches": ["*://*.poly.edu.vn/*cmd=infoScreen*"],
+            "js": ["remove.js"]
+        }
+    ]
+}
