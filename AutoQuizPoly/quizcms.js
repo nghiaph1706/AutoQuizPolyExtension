@@ -1,5 +1,5 @@
 var today = new Date();
-var log =today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds()+'-'+ today.getTime()+'-'+today.getDate()+'-'+(today.getMonth()+1)+'-'+today.getFullYear();
+var log =today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds()+'    '+today.getDate()+'-'+(today.getMonth()+1)+'-'+today.getFullYear();
 
 
 class Question {

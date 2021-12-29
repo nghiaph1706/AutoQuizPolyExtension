@@ -1,0 +1,44 @@
+var r="lms-ptcd.poly.edu.vn"==window.location.host?"9r:13t:7j:8c:7q":"q4:ll:vx",r=`${server}/ilias.php?ref_id=${e}&pass=${t}&cmd=outUserPassDetails&cmdClass=iltestevaluationgui&cmdNode=${r}&baseClass=ilRepositoryGUI`;
+
+http://hcm-lms.poly.edu.vn/ilias.php?ref_id=276648&active_id=784007&pass=0&evaluation=899075&cmd=outCorrectSolution&cmdClass=iltestevaluationgui&cmdNode=q4:ll:vx&baseClass=ilRepositoryGUI
+
+http://hcm-lms.poly.edu.vn/ilias.php?ref_id=276648&active_id=784007&pass=0&evaluation=899080&cmd=outCorrectSolution&cmdClass=iltestevaluationgui&cmdNode=q4:ll:vx&baseClass=ilRepositoryGUI
+
+link get answer
+http://hcm-lms.poly.edu.vn/ilias.php?ref_id=276648&active_id=784007&pass=0&evaluation=899080&cmd=outCorrectSolution&cmdClass=iltestevaluationgui&cmdNode=q4:ll:vx&baseClass=ilRepositoryGUI
+
+link xem result
+http://hcm-lms.poly.edu.vn/ilias.php?ref_id=276648&active_id=&pass=0&cmd=outUserPassDetails&cmdClass=iltestevaluationgui&cmdNode=q4:ll:vx&baseClass=ilRepositoryGUI
+
+http://hcm-lms.poly.edu.vn/ilias.php?ref_id=276648&active_id=&pass=0&cmd=outUserPassDetails&cmdClass=iltestevaluationgui&cmdNode=q4:ll:vx&baseClass=ilRepositoryGUI
+
+http://hcm-lms.poly.edu.vn/ilias.php?ref_id=276648&sequence=24&active_id=783997&cmd=showQuestion&cmdClass=iltestplayerrandomquestionsetgui&cmdNode=q4:ll:wn&baseClass=ilRepositoryGUI
+
+lấy list stt id ques theo tbody ở RS
+
+đáp án đúng có checked
+
+<tr>
+			<td class="middle" width="15">
+				
+				
+				<input type="radio" name="multiple_choice_result_q899113_bestsolution" value="1" readonly="" disabled="" checked="">
+				
+			</td>
+			<td class="middle">
+
+				<span>Thể hiện dữ liệu được xử lý bởi hệ thống và luồng dữ liệu đi qua các bước xử lý như thế nào.<br></span>
+			</td>
+			
+
+	
+
+			
+		</tr>
+
+link showQuestion
+http://hcm-lms.poly.edu.vn/ilias.php?ref_id=276648&sequence=41&active_id=784007&cmd=showQuestion&cmdClass=iltestplayerrandomquestionsetgui&cmdNode=q4:ll:wn&baseClass=ilrepositorygui
+
+http://http//hcm-lms.poly.edu.vn/ilias.php?ref_id=276648&sequence=45&active_id=784007&cmd=showQuestion&cmdClass=iltestplayerrandomquestionsetgui&cmdNode=q4:ll:wn&baseClass=ilrepositorygui.poly.edu.vn/ilias.php?ref_id=276648&sequence=1&active_id=784007&cmd=showQuestion&cmdClass=iltestplayerrandomquestionsetgui&cmdNode=q4:ll:wn&baseClass=ilrepositorygui
+http://http//hcm-lms.poly.edu.vn/ilias.php?ref_id=276648&sequence=45&active_id=784007&cmd=showQuestion&cmdClass=iltestplayerrandomquestionsetgui&cmdNode=q4:ll:wn&baseClass=ilrepositorygui.poly.edu.vn/ilias.php?ref_id=276648&sequence=1&active_id=784007&cmd=showQuestion&cmdClass=iltestplayerrandomquestionsetgui&cmdNode=q4:ll:wn&baseClass=ilrepositorygui
+
