@@ -52,7 +52,7 @@ class Result {
     }
 }
 
-const api = "https://api.cap.quizpoly.xyz/cms/";
+const api = "https://quizpolyextension.000webhostapp.com/api/show.php?courseName=";
 
 function getCourseName() {
     const elmsCourseName = document.querySelector("span.course-name");
@@ -91,6 +91,7 @@ function getQuestion() {
 function enCodeUrl(courseName) {
     courseName.replace("\\s+", "");
     var url = api.concat(encodeURIComponent(courseName).replace(/[!'()*]/g, escape))
+    console.log(url)
     return url;
 }
 
