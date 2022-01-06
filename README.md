@@ -16,5 +16,7 @@
   
   +nhược điểm: thời gian chờ lâu, kết quả chính xác nhất khi start từ question 1
   
-  https://www.facebook.com/nghiapl2611
+  Author: https://www.facebook.com/nghiapl2611
+  
+  website: https://quizpoly.tk
   
