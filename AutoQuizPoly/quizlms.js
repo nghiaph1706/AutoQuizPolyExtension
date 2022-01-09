@@ -19,7 +19,7 @@ async function getInfo() {
             var tmpString = table.rows[table.rows.length - 1].cells[4].innerHTML;
             point = Number(tmpString.substring(0, tmpString.lastIndexOf(`Of`)).trim());
         })
-    // console.log(`refId: ` + refId + ` locate: ` + locate + ` quesCont: ` + quesCont + ` sequence: ` + sequence + ` point: ` + point)
+    console.log(`refId: ` + refId + ` locate: ` + locate + ` quesCont: ` + quesCont + ` sequence: ` + sequence + ` point: ` + point)
 }
 
 async function start() {
@@ -28,7 +28,7 @@ async function start() {
     var prev = Number(localStorage.getItem('prev'));
     var pointOld = Number(localStorage.getItem('pointOld'));
     var ans = Number(localStorage.getItem('ans'));
-    // console.log(`count: ` + count + ` prev: ` + prev + ` pointOld: ` + pointOld + ` ans: ` + ans)
+    console.log(`count: ` + count + ` prev: ` + prev + ` pointOld: ` + pointOld + ` ans: ` + ans)
     if (Number(null) == count) {
 
         localStorage.setItem('count', '1');
