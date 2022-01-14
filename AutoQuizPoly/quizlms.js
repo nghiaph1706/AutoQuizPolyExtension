@@ -15,7 +15,7 @@ async function getInfo() {
         .then(function (html) {
             var parser = new DOMParser();
             var doc = parser.parseFromString(html, "text/html");
-            var table = doc.querySelector('#tst_pass_overview_314685');
+            var table = doc.querySelector("div.table-responsive table");
             var tmpString = table.rows[table.rows.length - 1].cells[4].innerHTML;
             point = Number(tmpString.substring(0, tmpString.lastIndexOf(`Of`)).trim());
         })
